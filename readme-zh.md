@@ -1,8 +1,9 @@
 电动汽车——夸父
 ======================
 
-创建：黑传说(jobinson99 jobinson99@hotmail.com)
+创建：黑传说(jobinson99 jobinson99@hotmail.com) 20190504
 
+电动车从零开始制造的全过程，以及相关对现有市面上技术的改进。
 
 ## 准备
 

@@ -3,6 +3,8 @@ Electrical Vehicle KuaFu
 
 created by: jobinson99(jobinson99@hotmail.com) 20190504
 
+The doce is the process of a electrical vehicle assemblement from the scratch and the improvement and reformation technology of the present.
+
 ## Preparation
 
 Design Tools: Openscad
