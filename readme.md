@@ -22,14 +22,14 @@ Assembling Tools:
 
 ## The Design
 
-
-## Assembling Process
-
-
-## Version
+### Version
 
 - v201812 barebone
 - v20190504 add Solar Energy roof, Reforming the Skeleton.
+
+
+## Assembling Process
+
 
 
 ## TODO
