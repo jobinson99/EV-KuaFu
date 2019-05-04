@@ -5,7 +5,7 @@ created by: jobinson99(jobinson99@hotmail.com) 20190504
 
 ## Introduction
 
-Electrical Vehicle Kuafu is project to produce an electrical vehicle, including the design, the process of a electrical vehicle assemblement from the scratch and the improvement and reformation of the present technology.
+Electrical Vehicle Kuafu is a project to produce an electrical vehicle, including the design, the process of assembling from the scratch, the improvement and reformation of the present technology.
 
 ## Preparation
 
@@ -20,13 +20,16 @@ Assembling Tools:
 - drill:
 - tap:
 
+## The Design
+
+
 ## Assembling Process
 
 
 ## Version
 
 - v201812 barebone
-- v20190504 Solar Energy, Reforming the Skeleton.
+- v20190504 add Solar Energy roof, Reforming the Skeleton.
 
 
 ## TODO
