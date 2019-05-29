@@ -54,7 +54,7 @@ Helpful but unnecesaary:
 
 - v201812 barebone
 - v20190504 add Solar Energy roof, Reforming the Skeleton.
-- vz backup electrical system, backup brake, thermal system, renovation of the operation system, 
+- vz backup electrical system, backup brake, thermal system, renovation of the operation system, fiber enhanced resin.
 
 ## Assembling Process
 
