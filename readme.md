@@ -12,8 +12,8 @@ Kuafu is a project to produce an electrical vehicle from scratch, including the 
 Design Tools: Openscad
 
 Component List:
-- 前桥
-- 后桥
+- Front axle
+- Rear axle
 - motor controller
 - wheel
 - shock absorber: steel plate
@@ -34,6 +34,9 @@ Component List:
 - lock
 - water blower
 - rearview mirror
+
+
+- Steel
 
 
 Assembling Tools:
