@@ -54,6 +54,7 @@ Helpful but unnecesaary:
 
 - v201812 barebone
 - v20190504 add Solar Energy roof, Reforming the Skeleton.
+- v201909 in order to quicker assembling, the skeleton shift to cold-formed thin-walled steel, link with screw bolt
 - vz backup electrical system, backup brake, thermal system, renovation of the operation system, fiber enhanced resin.
 
 ## Assembling Process
