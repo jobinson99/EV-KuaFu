@@ -53,6 +53,10 @@ Helpful but unnecesaary:
 
 ## The Design
 
+v201812-20190913 design preview
+
+![v201812-20190913](docs/20190913.png)
+
 ### Version
 
 - v201812 barebone
