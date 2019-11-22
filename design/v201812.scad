@@ -5,8 +5,6 @@
 use <utils/formed-material/formed-material.scad>
 include <utils/material-color.scad>
 
-// 前轮胎 处 竖30 100 角钢，连接成架，用于方向盘固定，作为前架 
-
 module material_use () {
 
 // 所用材料
