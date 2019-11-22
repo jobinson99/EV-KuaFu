@@ -45,7 +45,8 @@ Assembling Tools:
 - weld:
 - drill: 8mm, 10mm, 25mm
 - tap:
-- wrench: 8mm, 10mm
+- wrench: 8mm, 10mm, 20mm
+
 
 Helpful but unnecesaary:
 - uplift:  windlass
@@ -62,7 +63,15 @@ v201812-20190913 design preview
 - v201812 barebone
 - v20190504 add Solar Energy roof, Reforming the Skeleton.
 - v201909 in order to quicker assembling, the skeleton shift to cold-formed thin-walled steel, link with screw bolt
+- v201911 modify the single vehicle to main carrier with one or more trailer.
 - vz backup electrical system, backup brake, thermal system, renovation of the operation system, fiber enhanced resin.
+
+Actually, 3 version provided:
+- commonly implemented, steel.
+- [recommanded]main carrier with trailer, steel. Practical, easy implemented, fast assembling, cost-less, extensible.
+- main carrier with trailer, fiber enhanced.
+
+![v201911-assembling-complete](docs/20191110_081230.jpg)
 
 ## Assembling Process
 
