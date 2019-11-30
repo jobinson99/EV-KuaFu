@@ -43,9 +43,9 @@ Assembling Tools:
 
 - incise:
 - weld:
-- drill: 8mm, 10mm, 25mm
+- drill: 8mm，10mm，12mm，14mm, 17mm, 25mm
 - tap:
-- wrench: 8mm, 10mm, 20mm
+- wrench: 8mm，10mm，12mm, 14mm, 17mm, 27mm, 30mm, 32mm
 
 
 Helpful but unnecesaary:
