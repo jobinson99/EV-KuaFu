@@ -4,13 +4,34 @@
 
 use <utils/formed-material/formed-material.scad>
 use <utils/formed-material/formed-link.scad>
+include <utils/material-color.scad>
 
 module material_use () {
     }
 
-module framework () {
+
+module framework_bottom () {
+// 主轴
+
      
 }
+
+// 车身
+module framework_body() {
+     
+}
+
+// 车顶棚
+module framework_top () {
+     
+}
+
+// 外壳
+module shell (){
+     
+}
+
+
 
 // 部件
 module parts(){
@@ -34,7 +55,11 @@ module wheel() {
 /////////////////////////////////////////
 
 // 比例尺 1：10
-scale([0.1,0.1,0.1]) framework();
+scale([0.1,0.1,0.1]) framework_bottom();
+framework_body();
+framework_top();
+shell();
+
 % scale([0.1,0.1,0.1]) parts();
 
 // % scale([0.5,0.5,0.5]) material_use();

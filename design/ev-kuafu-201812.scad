@@ -237,11 +237,11 @@ module parts(){
 // Test
 /////////////////////////////////////////
 // 比例尺 1：10
- color("black")
- scale([0.1,0.1,0.1]) framework_bottom();
+color("black")
+scale([0.1,0.1,0.1]) framework_bottom();
 scale([0.1,0.1,0.1]) framework_body();
 % scale([0.1,0.1,0.1]) translate([800,-650,1200]) framework_top();
- % scale([0.1,0.1,0.1]) shell();
+% scale([0.1,0.1,0.1]) shell();
 
 
 % scale([0.1,0.1,0.1]) parts();
