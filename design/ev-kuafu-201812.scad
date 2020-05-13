@@ -240,10 +240,22 @@ module parts(){
 color("black")
 scale([0.1,0.1,0.1]) framework_bottom();
 scale([0.1,0.1,0.1]) framework_body();
-% scale([0.1,0.1,0.1]) translate([800,-650,1200]) framework_top();
+
 % scale([0.1,0.1,0.1]) shell();
 
 
 % scale([0.1,0.1,0.1]) parts();
+module car() {
 
+color("black")
+framework_bottom();
+framework_body();
+% translate([800,-650,1200]) framework_top();
+shell();
+
+% parts();
+}
+
+// 比例尺 1：10
+scale([0.1,0.1,0.1]) car();
 // % scale([0.5,0.5,0.5]) material_use();
