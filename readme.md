@@ -54,9 +54,14 @@ Helpful but unnecesaary:
 
 ## The Design
 
+v201909 design preview
+
+![v201909](docs/ev-kuafu-201909.png)
+
 v201812-20190913 design preview
 
 ![v201812-20190913](docs/20190913.png)
+
 
 ### Version
 
@@ -69,12 +74,13 @@ v201812-20190913 design preview
 Actually, 3 version provided:
 - commonly implemented, steel.
 - [recommanded]main carrier with trailer, steel. Practical, easy implemented, fast assembling, cost-less, extensible.
-- main carrier with trailer, fiber enhanced.
+- main carrier with trailer, fiber enhanced, for factory production.
 
 ![v201911-assembling-complete](docs/20191110_081230.jpg)
 
 ## Assembling Process
 
+[Assembling Process](/docs/装配流程图.md)
 
 
 ## TODO
